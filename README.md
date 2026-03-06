@@ -1,8 +1,8 @@
 # Hi, I'm Saatvik 👋
 
-> *10th grader | Builder, problem-solver, and perpetual learner — always one project away from the next idea.*
+> *10th grader | Builder, problem-solver, and perpetual learner.*
 
-I'm a high school sophomore passionate about software development, competitive coding, and building things that are actually fun to use. Whether it's a game engine, a CS competition, or an app concept, I dive in first and figure out the hard parts along the way.
+I'm a high school sophomore passionate about software development, competitive coding, and building things that are actually fun to use. 
 
 ---
 
@@ -19,37 +19,21 @@ I'm a high school sophomore passionate about software development, competitive c
 ## 🚀 Featured Project
 
 ### 🏐 [Volleyball Game](https://github.com/saatvikKundoor)
-A local 2-player Unity game built from scratch — drag-to-serve mechanics, WASD receiver controls, a lives system, power-ups, and a dedicated training mode. Actively in development; bugs are just undocumented features for now.
+A local 2-player Unity game built from scratch — drag-to-serve mechanics, WASD receiver controls, a lives system, power-ups, and a dedicated training mode. Actively in development
 
 ---
 
 ## 🏆 Achievements
 
 - 🥉 **3rd Place — Novice Division**, US Central Virtual Lockheed Martin CodeQuest 2026
-- Competing in **USACO** and pursuing hackathons
 
 ---
 
 ## 📚 Currently Learning
 
 - Deepening Python through data projects on **Kaggle**
-- Sharpening **AP CS A (Java)** and **AP Calculus BC**
-- Exploring USACO problem sets and competitive programming patterns
-
----
-
-## 🎯 What I'm Working Toward
-
-I'm building a portfolio at the intersection of **software engineering, game dev, and competitive CS** — with an eye toward college CS programs and real-world impact. Every project is a stepping stone.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saatvikKundoor&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Saatvik's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saatvikKundoor&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+- Sharpening Java skills through competitions
+- Building projects through hackathons
 
 ---
 
