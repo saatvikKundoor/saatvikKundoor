@@ -1,6 +1,5 @@
 # Hi, I'm Saatvik 👋
 
-> *10th grader | Builder, problem-solver, and perpetual learner.*
 
 I'm a high school sophomore passionate about software development, competitive coding, and building things that are actually fun to use. 
 
@@ -43,4 +42,3 @@ A local 2-player Unity game built from scratch — drag-to-serve mechanics, WASD
 
 ---
 
-*Always building. Always curious.*
