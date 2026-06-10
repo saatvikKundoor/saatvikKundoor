@@ -25,6 +25,8 @@ A local 2-player Unity game built from scratch — drag-to-serve mechanics, WASD
 ## 🏆 Achievements
 
 - 🥉 **3rd Place — Novice Division**, US Central Virtual Lockheed Martin CodeQuest 2026
+- 🥉 **3rd Place — Internationally from over 290+ participants across 40+ countries**, Climate Change Hacks 2026
+- 🏅 **Finalist - International Senior Division** Games 4 Change Student Challenge
 
 ---
 
