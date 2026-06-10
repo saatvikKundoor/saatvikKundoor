@@ -17,8 +17,8 @@ I'm a high school sophomore passionate about software development, competitive c
 
 ## 🚀 Featured Project
 
-### 🏐 [Volleyball Game](https://github.com/saatvikKundoor)
-A local 2-player Unity game built from scratch — drag-to-serve mechanics, WASD receiver controls, a lives system, power-ups, and a dedicated training mode. Actively in development
+### 🏐 [Verge](https://github.com/saatvikKundoor/Verge)
+A gambling-powered AP Calc BC study tool where you spin a wheel, bet your coins, and prove whether a series converges or diverges.
 
 ---
 
