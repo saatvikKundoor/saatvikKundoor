@@ -39,6 +39,7 @@ A local 2-player Unity game built from scratch — drag-to-serve mechanics, WASD
 ## 📬 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-saatvikKundoor-181717?style=flat-square&logo=github)](https://github.com/saatvikKundoor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/saatvik-kundoor-836259329/))
 
 ---
 
