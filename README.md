@@ -17,8 +17,8 @@ I'm a high school sophomore passionate about software development, competitive c
 
 ## 🚀 Featured Project
 
-### 🏐 [Verge](https://github.com/saatvikKundoor/Verge)
-A gambling-powered AP Calc BC study tool where you spin a wheel, bet your coins, and prove whether a series converges or diverges.
+### 🗂️ [Admissions Simulator](https://github.com/saatvikKundoor/Admissions-Simulator)
+A game to guess other people's college results based on their stats, with real profiles and results and side by side comparisons
 
 ---
 
